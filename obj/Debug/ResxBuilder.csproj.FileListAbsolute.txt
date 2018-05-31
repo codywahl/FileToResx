@@ -1,0 +1,7 @@
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\bin\Debug\XmlTranslationsBuilder.exe.config
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\bin\Debug\XmlTranslationsBuilder.exe
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\bin\Debug\XmlTranslationsBuilder.pdb
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\obj\Debug\ResxBuilder.csprojAssemblyReference.cache
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\obj\Debug\ResxBuilder.csproj.CoreCompileInputs.cache
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\obj\Debug\XmlTranslationsBuilder.exe
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\obj\Debug\XmlTranslationsBuilder.pdb

@@ -1,0 +1,6 @@
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\obj\Debug\FiletoResx.csproj.CoreCompileInputs.cache
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\bin\Debug\FileToResx.exe.config
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\bin\Debug\FileToResx.exe
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\bin\Debug\FileToResx.pdb
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\obj\Debug\FileToResx.exe
+C:\Users\cwahl.RIGHTCROWD\Documents\Sandbox\XmlTranslationsBuilder\XmlTranslationsBuilder\obj\Debug\FileToResx.pdb
